@@ -45,8 +45,8 @@
   },
   "dependencies": {
     "multiaddr": "^2.2.2",
-    "peer-id": "~0.8.4",
-    "peer-info": "~0.8.4",
+    "peer-id": "git://github.com/duomarket/js-peer-id.git",
+    "peer-info": "git://github.com/duomarket/js-peer-info.git",
     "protocol-buffers": "^3.2.1",
     "pull-length-prefixed": "^1.2.0",
     "pull-stream": "^3.5.0"
